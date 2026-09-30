@@ -5,10 +5,10 @@ I work in security, GRC, and control assurance. I like problems where the eviden
 ## Selected projects and research
 
 - [Readiness Lab](https://github.com/lpayt402/readiness-lab) — A local demo for evidence checks, source provenance, and human review, built around fictional data
-- Servifide — My attempt to explore how day-to-day security teams connect services, vendors, agreements, evidence, and risk while keeping decisions with people
-- Compliance Control Map — A self-hosted workspace for control readiness, linked evidence, and optional human-reviewed AI assistance
+- [Servifide](https://github.com/lpayt402/servifide-demo) — My attempt to explore how day-to-day security teams connect services, vendors, agreements, evidence, and risk while keeping decisions with people
+- [Compliance Control Map](https://github.com/lpayt402/compliance-control-map) — A self-hosted workspace for control readiness, linked evidence, and optional human-reviewed AI assistance
 - Animal Size Estimation — Exploratory work on estimating animal dimensions from photos and known-size visual references. Inferring weight from dimensions is a separate, species- and use-case-specific question; no model accuracy has been validated.
 - SecInABox — A staged security-program framework for discovery, evidence, provenance, and controlled improvement
-- Research — Practitioner work on AI capability, evidence, uncertainty, and the steps between task assistance and consequential outcomes
+- [Evidence-led Investigation](https://github.com/lpayt402/evidence-led-investigation) — Practitioner work on AI capability, evidence, uncertainty, and the steps between task assistance and consequential outcomes
 
 I try to make evidence easy to follow, show where the software’s checks end, and leave consequential judgments with a person.
