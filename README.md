@@ -7,7 +7,7 @@ I work in security, GRC, and control assurance. I like problems where the eviden
 - [Readiness Lab](https://github.com/lpayt402/readiness-lab) — A local demo for evidence checks, source provenance, and human review, built around fictional data
 - Servifide — My attempt to explore how day-to-day security teams connect services, vendors, agreements, evidence, and risk while keeping decisions with people
 - Compliance Control Map — A self-hosted workspace for control readiness, linked evidence, and optional human-reviewed AI assistance
-- CattleWeightEstimation — I’m exploring whether ordinary cattle photos, visual cues, and known-size references such as confirmed ear-tag dimensions can support useful live-weight estimates. The planned comparison with measured weights and error bounds hasn’t run yet.
+- [Animal Size Estimation](https://github.com/lpayt402/cattle-weight-estimation) — Exploratory work on estimating animal dimensions from photos and known-size visual references. Inferring weight from dimensions is a separate, species- and use-case-specific question; no model accuracy has been validated.
 - SecInABox — A staged security-program framework for discovery, evidence, provenance, and controlled improvement
 - Research — Practitioner work on AI capability, evidence, uncertainty, and the steps between task assistance and consequential outcomes
 
