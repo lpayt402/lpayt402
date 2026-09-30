@@ -12,5 +12,3 @@ I work in security, GRC, and control assurance. I like problems where the eviden
 - Research — Practitioner work on AI capability, evidence, uncertainty, and the steps between task assistance and consequential outcomes
 
 I try to make evidence easy to follow, show where the software’s checks end, and leave consequential judgments with a person.
-
-I’m still learning this area; I don’t claim direct FedRAMP delivery experience.
