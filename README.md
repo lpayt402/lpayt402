@@ -2,7 +2,7 @@
 
 I work in security, GRC, and control assurance. I like problems where the evidence is messy and the next step isn’t obvious, especially when software can help without taking decisions away from people.
 
-I’m moving projects from local source control into this account. More projects and updates coming soon.
+I’m moving projects from local source control into this account. More to come!
 
 ## Selected projects and research
 
