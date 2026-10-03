@@ -6,7 +6,7 @@ I’m moving projects from local source control into this account. More projects
 
 ## Selected projects and research
 
-- [Readiness Lab](https://github.com/lpayt402/readiness-lab) — A local demo for checking evidence and tracing it back to its source, using fictional data
+- [Readiness Lab](https://github.com/lpayt402/readiness-lab) — A local demo for checking evidence and tracing it back to its source, using synthetic sample evidence for hypothetical review workflows
 - [Servifide](https://github.com/lpayt402/servifide-demo) — A synthetic-data demo of versioned policy review, workspace-scoped search, and scoped CSV export
 - [GYST](https://github.com/lpayt402/gyst) — A local toolkit for organizing scattered information into a source-linked map and surfacing open questions
 - [M365 Scoped Mail](https://github.com/lpayt402/m365-scoped-mail) — A local mock exercise in understanding Microsoft 365 application permissions and mailbox-level access
