@@ -1,6 +1,6 @@
 # Lee Payton
 
-I work in security, GRC, and control assurance. My focus is building practical security programs: clear ownership, evidence people can follow, and decisions that stay with accountable reviewers.
+I’m Lee, a security engineer. A lot of my work involves building security and compliance processes and getting them working in practice. I also enjoy building tools, investigating fraud, and experimenting with AI and native Apple apps. You’ll find a mix of those interests here.
 
 These public projects include local tools, synthetic demonstrations, and research outlines. Their READMEs describe current capabilities and what remains unverified. More to come!
 
