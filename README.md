@@ -12,7 +12,7 @@ I work across the enterprise security program, from setting policies and assessi
 - **Asset and vulnerability management:** Connect asset inventories with security findings, prioritize exposure and coordinate remediation and verification.
 - **Endpoint security:** Manage endpoint protection, review detections and investigate suspicious activity.
 - **Identity and access:** Administer MFA and Conditional Access, review privileged access and permissions, and support employee onboarding and offboarding.
-- **Cloud, network and system security:** Review configurations, access paths and safeguards across the environment, including Microsoft 365 and Active Directory.
+- **Cloud, network and system security:** Review configurations, access paths and safeguards across cloud services, networks, systems and enterprise directories.
 - **Security architecture and data protection:** Review how systems connect, where sensitive information goes and whether the right protections are in place.
 - **Monitoring and incident response:** Triage alerts and reported phishing, investigate issues, maintain response plans and coordinate response work.
 - **Business continuity and disaster recovery:** Develop plans, coordinate testing and work through what it takes to restore operations.
