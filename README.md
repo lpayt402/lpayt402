@@ -4,9 +4,22 @@ GRC / Security engineer in Nebraska.
 
 ## What I do
 
-- Built out a full GRC program.
-- Put vulnerability management, vendor management, and permission reviews in place.
-- Organized penetration tests.
+I work across the enterprise security program, from setting policies and assessing risk to administering controls, investigating alerts and planning recovery. I built out a full GRC program and stay hands-on with the security work behind it.
+
+- **Governance and policy:** Build security policies, define responsibilities and turn requirements into processes people can follow.
+- **Risk management:** Assess risks across systems, business processes and proposed changes, then work through practical ways to address them.
+- **Compliance and assurance:** Maintain SOC 2 controls, organize audit evidence, review gaps and follow through on corrective work.
+- **Asset and vulnerability management:** Connect asset inventories with security findings, prioritize exposure and coordinate remediation and verification.
+- **Endpoint security:** Manage endpoint protection, review detections and investigate suspicious activity.
+- **Identity and access:** Administer MFA and Conditional Access, review privileged access and permissions, and support employee onboarding and offboarding.
+- **Cloud, network and system security:** Review configurations, access paths and safeguards across the environment, including Microsoft 365 and Active Directory.
+- **Security architecture and data protection:** Review how systems connect, where sensitive information goes and whether the right protections are in place.
+- **Monitoring and incident response:** Triage alerts and reported phishing, investigate issues, maintain response plans and coordinate response work.
+- **Business continuity and disaster recovery:** Develop plans, coordinate testing and work through what it takes to restore operations.
+- **Vendor and third-party risk:** Assess vendors, review their security practices and track concerns that need follow-up.
+- **Security testing:** Organize penetration tests, coordinate testing with stakeholders and track findings through remediation.
+- **Awareness and day-to-day guidance:** Help people recognize security issues and make informed decisions in their everyday work.
+- **Security engineering and automation:** Build practical tools that connect vulnerability, asset, identity and compliance data and reduce repetitive work.
 
 ## Featured projects
 
